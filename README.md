@@ -1,4 +1,4 @@
-### Opa! Eu sou o João
+### Opa!
 - I’m currently learning...
 
 <span>
