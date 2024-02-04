@@ -16,6 +16,8 @@
 
 </div>
 <hr>
+<!--  
   <p align="center"> Total de visitas no Perfil</p>
-  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/jh0n16/count.svg" /></p>
+  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/jh0n16/count.svg" /></p> 
 <hr>
+-->
