@@ -15,7 +15,6 @@
   <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
 
 </div>
-<hr>
 <!--  
   <p align="center"> Total de visitas no Perfil</p>
   <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/jh0n16/count.svg" /></p> 
