@@ -1,5 +1,5 @@
 ### E aí! Eu sou o João
-- Aprendendo novas coisas...
+- Tô sempre tentando aprender algo novo...
 
 <span>
   <a href="https://github.com/jh0n16">
